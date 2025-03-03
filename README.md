@@ -47,27 +47,27 @@ O país que obteve a maior melhoria na taxa de mortalidade ao longo dos anos foi
 
 # Machine Learning
 
-Para complementar a análise, desenvolvemos um modelo preditivo de Regressão Linear para estimar a taxa de mortalidade com base em país, ano e gênero.
+Para complementar a análise, desenvolvi um modelo preditivo de Regressão Linear para estimar a taxa de mortalidade com base em país, ano e gênero.
 
  # Como o modelo funciona?
 
 Pré-processamento dos dados:
 
-Lidamos com valores ausentes e normalizamos os dados.
+Lidei com valores ausentes e normalizei os dados.
 
-Aplicamos OneHotEncoding para transformar variáveis categóricas (país e gênero) em valores numéricos.
+Apliquei OneHotEncoding para transformar variáveis categóricas (país e gênero) em valores numéricos.
 
 Criação do modelo:
 
-Utilizamos um modelo de Regressão Linear para encontrar relações entre as variáveis e a taxa de mortalidade.
+Utilizei um modelo de Regressão Linear para encontrar relações entre as variáveis e a taxa de mortalidade.
 
-Dividimos o conjunto de dados em 80% para treino e 20% para teste.
+Dividi o conjunto de dados em 80% para treino e 20% para teste.
 
 Avaliação do modelo:
 
-Utilizamos Erro Quadrático Médio (MSE) para medir a precisão do modelo.
+Utilizei Erro Quadrático Médio (MSE) para medir a precisão do modelo.
 
-Analisamos possíveis melhorias no modelo, como o uso de modelos mais complexos (Random Forest, XGBoost, etc.).
+Analisei possíveis melhorias no modelo, como o uso de modelos mais complexos (Random Forest, XGBoost, etc.).
 
  # Resultado do modelo
 
