@@ -119,7 +119,7 @@ Este trabalho serve como um ponto de partida para a aplicação de modelos predi
 
 Este projeto possibilitou uma análise detalhada dos dados de mortalidade global, permitindo a identificação de padrões e tendências significativas. Através dessa análise, foi possível explorar a evolução da mortalidade ao longo do tempo e entender fatores que contribuem para essas variações.
 
-# Algumas descobertas importantes incluem:
+# Algumas descobertas importantes :
 
 Disparidade entre a mortalidade de homens e mulheres: Foi observada uma diferença nas taxas de mortalidade por gênero, com alguns grupos etários apresentando taxas mais altas para um dos sexos. Esta disparidade aponta para a necessidade de políticas de saúde pública mais específicas para cada gênero.
 
