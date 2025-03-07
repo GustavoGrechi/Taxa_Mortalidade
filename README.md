@@ -109,13 +109,13 @@ Avaliação do Modelo:
 Para medir a performance do modelo, utilizei o Erro Quadrático Médio (MSE), que avalia a precisão das previsões feitas pelo modelo.
 Embora o modelo tenha apresentado um desempenho razoável, explorei possíveis melhorias, como o uso de modelos mais complexos, como Random Forest e XGBoost, que podem gerar resultados mais robustos e precisos.
 
-# ✅ Resultado do Modelo:
+# Resultado do Modelo:
 
 O erro médio do modelo foi 17.714.368.548,85, o que indica que, embora o modelo tenha conseguido capturar tendências gerais nas taxas de mortalidade, sua precisão ainda pode ser aprimorada. O modelo mostrou-se eficaz para prever tendências, mas melhorias podem ser alcançadas ao incorporar abordagens mais avançadas de Machine Learning, o que proporcionaria previsões mais precisas e confiáveis.
 
 Este trabalho serve como um ponto de partida para a aplicação de modelos preditivos no contexto de mortalidade, e evidencia a necessidade de explorar técnicas mais avançadas para um melhor desempenho.
 
-# ✅ Conclusão
+# Conclusão
 
 Este projeto possibilitou uma análise detalhada dos dados de mortalidade global, permitindo a identificação de padrões e tendências significativas. Através dessa análise, foi possível explorar a evolução da mortalidade ao longo do tempo e entender fatores que contribuem para essas variações.
 
